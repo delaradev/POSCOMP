@@ -1,72 +1,72 @@
-| Questão | Gabarito | Explicação                |               Componente                           |
-| ------- | -------- | --------------------------| ------------------------------------
-| 1       | B        | [Explicação](gabarito/01) | Álgebra Linear                     |
-| 2       | A        | [Explicação](gabarito/02) | Álgebra Linear                     |
-| 3       | A        | [Explicação](gabarito/03) | Geometria Analítica                |
-| 4       | B        | [Explicação](gabarito/04) | Geometria Analítica                |
-| 5       | A        | [Explicação](gabarito/05) | Cálculo Diferencial e Integral     |
-| 6       | A        | [Explicação](gabarito/06) | Cálculo Diferencial e Integral     |
-| 7       | B        | [Explicação](gabarito/07) | Álgebra Linear                     |
-| 8       | D        | [Explicação](gabarito/08) | Geometria Analítica                |
-| 9       | C        | [Explicação](gabarito/09) | Matemática Discreta                |
-| 10      | A        | [Explicação](gabarito/10) | Cálculo Diferencial e Integral     |
-| 11      | D        | [Explicação](gabarito/11) | Lógica Matemática                   |
-| 12      | E        | [Explicação](gabarito/12) | Lógica Matemática                   |
-| 13      | A        | [Explicação](gabarito/13) | Análise Combinatória               |
-| 14      | D        | [Explicação](gabarito/14) | Matemática Discreta                |
-| 15      | C        | [Explicação](gabarito/15) | Lógica Matemática                   |
-| 16      | A        | [Explicação](gabarito/16) | Matemática Discreta                |
-| 17      | D        | [Explicação](gabarito/17) | Análise Combinatória               |
-| 18      | B        | [Explicação](gabarito/18) | Probabilidade e Estatística        |
-| 19      | B        | [Explicação](gabarito/19) | Análise Combinatória               |
-| 20      | E        | [Explicação](gabarito/20) | Probabilidade e Estatística        |
-| 21      | E        | [Explicação](gabarito/21) | Análise de Algoritmos              |
-| 22      | C        | [Explicação](gabarito/22) | Análise de Algoritmos              |
-| 23      | C        | [Explicação](gabarito/23) | Algoritmos e Estrutura de Dados    |
-| 24      | B        | [Explicação](gabarito/24) | Algoritmos e Estrutura de Dados    |
-| 25      | A        | [Explicação](gabarito/25) | Análise de Algoritmos              |
-| 26      | A        | [Explicação](gabarito/26) | Algoritmos e Estrutura de Dados    |
-| 27      | D        | [Explicação](gabarito/27) | Linguagens de Programação          |
-| 28      | C        | [Explicação](gabarito/28) | Linguagens de Programação          |
-| 29      | D        | [Explicação](gabarito/29) | Organização de Arquivos e Dados    |
-| 30      | E        | [Explicação](gabarito/30) | Técnicas de Programação            |
-| 31      | B        | [Explicação](gabarito/31) | Linguagens de Programação          |
-| 32      | B        | [Explicação](gabarito/32) | Teoria dos Grafos                  |
-| 33      | D        | [Explicação](gabarito/33) | Técnicas de Programação            |
-| 34      | D        | [Explicação](gabarito/34) | Organização de Arquivos e Dados    |
-| 35      | A        | [Explicação](gabarito/35) | Organização de Arquivos e Dados    |
-| 36      | C        | [Explicação](gabarito/36) | Teoria dos Grafos                  |
-| 37      | E        | [Explicação](gabarito/37) | Teoria dos Grafos                  |
-| 38      | A        | [Explicação](gabarito/38) | Técnicas de Programação            |
-| 39      | A        | [Explicação](gabarito/39) | Linguagens Formais, Autômatos e Computabilidade |
-| 40 *    |          | [Explicação](gabarito/40) | Linguagens Formais, Autômatos e Computabilidade |
-| 41      | C        | [Explicação](gabarito/41) | Linguagens Formais, Autômatos e Computabilidade |
-| 42      | B        | [Explicação](gabarito/42) | Circuitos Digitais                 |
-| 43      | D        | [Explicação](gabarito/43) | Circuitos Digitais                 |
-| 44      | D        | [Explicação](gabarito/44) | Arquitetura e Organização de Computadores |
-| 45      | D        | [Explicação](gabarito/45) | Sistemas Operacionais              |
-| 46      | B        | [Explicação](gabarito/46) | Sistemas Operacionais              |
-| 47      | D        | [Explicação](gabarito/47) | Circuitos Digitais                 |
-| 48      | B        | [Explicação](gabarito/48) | Arquitetura e Organização de Computadores |
-| 49      | D        | [Explicação](gabarito/49) | Arquitetura e Organização de Computadores |
-| 50      | C        | [Explicação](gabarito/50) | Sistemas Operacionais              |
-| 51      | B        | [Explicação](gabarito/51) | Banco de Dados                     |
-| 52      | C        | [Explicação](gabarito/52) | Banco de Dados                     |
-| 53      | B        | [Explicação](gabarito/53) | Engenharia de Software             |
-| 54      | B        | [Explicação](gabarito/54) | Redes de Computadores              |
-| 55      | E        | [Explicação](gabarito/55) | Banco de Dados                     |
-| 56      | D        | [Explicação](gabarito/56) | Engenharia de Software             |
-| 57      | C        | [Explicação](gabarito/57) | Computação Gráfica                 |
-| 58      | B        | [Explicação](gabarito/58) | Computação Gráfica                 |
-| 59      | D        | [Explicação](gabarito/59) | Processamento de Imagens           |
-| 60      | B        | [Explicação](gabarito/60) | Redes de Computadores              |
-| 61      | E        | [Explicação](gabarito/61) | Processamento de Imagens           |
-| 62      | B        | [Explicação](gabarito/62) | Sistemas Distribuídos              |
-| 63      | D        | [Explicação](gabarito/63) | Compiladores                       |
-| 64      | E        | [Explicação](gabarito/64) | Sistemas Distribuídos              |
-| 65      | E        | [Explicação](gabarito/65) | Redes de Computadores              |
-| 66      | C        | [Explicação](gabarito/66) | Inteligência Artificial             |
-| 67      | A        | [Explicação](gabarito/67) | Sistemas Distribuídos              |
-| 68      | E        | [Explicação](gabarito/68) | Compiladores                       |
-| 69      | D        | [Explicação](gabarito/69) | Inteligência Artificial             |
-| 70      | E        | [Explicação](gabarito/70) | Engenharia de Software             |
+| Questão | Gabarito | Componente                     | Explicação                              |
+| ------- | -------- | ------------------------------- | --------------------------------------- |
+| 1       | B        | Álgebra Linear                 | [Explicação](gabarito/01.md) |
+| 2       | A        | Álgebra Linear                 | [Explicação](gabarito/02.md) |
+| 3       | A        | Geometria Analítica            | [Explicação](gabarito/03.md) |
+| 4       | B        | Geometria Analítica            | [Explicação](gabarito/04.md) |
+| 5       | A        | Cálculo Diferencial e Integral | [Explicação](gabarito/05.md) |
+| 6       | A        | Cálculo Diferencial e Integral | [Explicação](gabarito/06.md) |
+| 7       | B        | Álgebra Linear                 | [Explicação](gabarito/07.md) |
+| 8       | D        | Geometria Analítica            | [Explicação](gabarito/08.md) |
+| 9       | C        | Matemática Discreta            | [Explicação](gabarito/09.md) |
+| 10      | A        | Cálculo Diferencial e Integral | [Explicação](gabarito/10.md) |
+| 11      | D        | Lógica Matemática               | [Explicação](gabarito/11.md) |
+| 12      | E        | Lógica Matemática               | [Explicação](gabarito/12.md) |
+| 13      | A        | Análise Combinatória           | [Explicação](gabarito/13.md) |
+| 14      | D        | Matemática Discreta            | [Explicação](gabarito/14.md) |
+| 15      | C        | Lógica Matemática               | [Explicação](gabarito/15.md) |
+| 16      | A        | Matemática Discreta            | [Explicação](gabarito/16.md) |
+| 17      | D        | Análise Combinatória           | [Explicação](gabarito/17.md) |
+| 18      | B        | Probabilidade e Estatística    | [Explicação](gabarito/18.md) |
+| 19      | B        | Análise Combinatória           | [Explicação](gabarito/19.md) |
+| 20      | E        | Probabilidade e Estatística    | [Explicação](gabarito/20.md) |
+| 21      | E        | Análise de Algoritmos          | [Explicação](gabarito/21.md) |
+| 22      | C        | Análise de Algoritmos          | [Explicação](gabarito/22.md) |
+| 23      | C        | Algoritmos e Estrutura de Dados | [Explicação](gabarito/23.md) |
+| 24      | B        | Algoritmos e Estrutura de Dados | [Explicação](gabarito/24.md) |
+| 25      | A        | Análise de Algoritmos          | [Explicação](gabarito/25.md) |
+| 26      | A        | Algoritmos e Estrutura de Dados | [Explicação](gabarito/26.md) |
+| 27      | D        | Linguagens de Programação      | [Explicação](gabarito/27.md) |
+| 28      | C        | Linguagens de Programação      | [Explicação](gabarito/28.md) |
+| 29      | D        | Organização de Arquivos e Dados | [Explicação](gabarito/29.md) |
+| 30      | E        | Técnicas de Programação        | [Explicação](gabarito/30.md) |
+| 31      | B        | Linguagens de Programação      | [Explicação](gabarito/31.md) |
+| 32      | B        | Teoria dos Grafos              | [Explicação](gabarito/32.md) |
+| 33      | D        | Técnicas de Programação        | [Explicação](gabarito/33.md) |
+| 34      | D        | Organização de Arquivos e Dados | [Explicação](gabarito/34.md) |
+| 35      | A        | Organização de Arquivos e Dados | [Explicação](gabarito/35.md) |
+| 36      | C        | Teoria dos Grafos              | [Explicação](gabarito/36.md) |
+| 37      | E        | Teoria dos Grafos              | [Explicação](gabarito/37.md) |
+| 38      | A        | Técnicas de Programação        | [Explicação](gabarito/38.md) |
+| 39      | A        | Linguagens Formais, Autômatos e Computabilidade | [Explicação](gabarito/39.md) |
+| 40 *    |          | Linguagens Formais, Autômatos e Computabilidade | [Explicação](gabarito/40.md) |
+| 41      | C        | Linguagens Formais, Autômatos e Computabilidade | [Explicação](gabarito/41.md) |
+| 42      | B        | Circuitos Digitais             | [Explicação](gabarito/42.md) |
+| 43      | D        | Circuitos Digitais             | [Explicação](gabarito/43.md) |
+| 44      | D        | Arquitetura e Organização de Computadores | [Explicação](gabarito/44.md) |
+| 45      | D        | Sistemas Operacionais          | [Explicação](gabarito/45.md) |
+| 46      | B        | Sistemas Operacionais          | [Explicação](gabarito/46.md) |
+| 47      | D        | Circuitos Digitais             | [Explicação](gabarito/47.md) |
+| 48      | B        | Arquitetura e Organização de Computadores | [Explicação](gabarito/48.md) |
+| 49      | D        | Arquitetura e Organização de Computadores | [Explicação](gabarito/49.md) |
+| 50      | C        | Sistemas Operacionais          | [Explicação](gabarito/50.md) |
+| 51      | B        | Banco de Dados                 | [Explicação](gabarito/51.md) |
+| 52      | C        | Banco de Dados                 | [Explicação](gabarito/52.md) |
+| 53      | B        | Engenharia de Software         | [Explicação](gabarito/53.md) |
+| 54      | B        | Redes de Computadores          | [Explicação](gabarito/54.md) |
+| 55      | E        | Banco de Dados                 | [Explicação](gabarito/55.md) |
+| 56      | D        | Engenharia de Software         | [Explicação](gabarito/56.md) |
+| 57      | C        | Computação Gráfica             | [Explicação](gabarito/57.md) |
+| 58      | B        | Computação Gráfica             | [Explicação](gabarito/58.md) |
+| 59      | D        | Processamento de Imagens       | [Explicação](gabarito/59.md) |
+| 60      | B        | Redes de Computadores          | [Explicação](gabarito/60.md) |
+| 61      | E        | Processamento de Imagens       | [Explicação](gabarito/61.md) |
+| 62      | B        | Sistemas Distribuídos          | [Explicação](gabarito/62.md) |
+| 63      | D        | Compiladores                   | [Explicação](gabarito/63.md) |
+| 64      | E        | Sistemas Distribuídos          | [Explicação](gabarito/64.md) |
+| 65      | E        | Redes de Computadores          | [Explicação](gabarito/65.md) |
+| 66      | C        | Inteligência Artificial         | [Explicação](gabarito/66.md) |
+| 67      | A        | Sistemas Distribuídos          | [Explicação](gabarito/67.md) |
+| 68      | E        | Compiladores                   | [Explicação](gabarito/68.md) |
+| 69      | D        | Inteligência Artificial         | [Explicação](gabarito/69.md) |
+| 70      | E        | Engenharia de Software         | [Explicação](gabarito/70.md) |
